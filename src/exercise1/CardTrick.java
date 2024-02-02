@@ -73,15 +73,15 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be more active on LinkedIn");
-        System.out.println("-- Have a semester with no violations of academic integrity!");
+        System.out.println("-- Be a good programmer");
+        System.out.println("-- Pass all semesters with good grades");
         System.out.println();	
 
         System.out.println("My hobbies:");
-        System.out.println("-- Investing");
-        System.out.println("-- Cooking");
+        System.out.println("-- Listening music");
+        System.out.println("-- Singing");
         System.out.println("-- Watching TV");
-        System.out.println("-- Reading books");
+        System.out.println("-- Reading novels");
 
         System.out.println();
     }
